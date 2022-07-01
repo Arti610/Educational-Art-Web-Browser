@@ -1,0 +1,9 @@
+C:\Users\Kalka Repairs\Desktop\vb.net classes 3 to 4\login_form\WEB BROWSER\WEB BROWSER\bin\Debug\WEB BROWSER.exe
+C:\Users\Kalka Repairs\Desktop\vb.net classes 3 to 4\login_form\WEB BROWSER\WEB BROWSER\bin\Debug\WEB BROWSER.pdb
+C:\Users\Kalka Repairs\Desktop\vb.net classes 3 to 4\login_form\WEB BROWSER\WEB BROWSER\bin\Debug\WEB BROWSER.xml
+C:\Users\Kalka Repairs\Desktop\vb.net classes 3 to 4\login_form\WEB BROWSER\WEB BROWSER\obj\x86\Debug\WEB_BROWSER.Resources.resources
+C:\Users\Kalka Repairs\Desktop\vb.net classes 3 to 4\login_form\WEB BROWSER\WEB BROWSER\obj\x86\Debug\WEB BROWSER.vbproj.GenerateResource.Cache
+C:\Users\Kalka Repairs\Desktop\vb.net classes 3 to 4\login_form\WEB BROWSER\WEB BROWSER\obj\x86\Debug\WEB BROWSER.exe
+C:\Users\Kalka Repairs\Desktop\vb.net classes 3 to 4\login_form\WEB BROWSER\WEB BROWSER\obj\x86\Debug\WEB BROWSER.xml
+C:\Users\Kalka Repairs\Desktop\vb.net classes 3 to 4\login_form\WEB BROWSER\WEB BROWSER\obj\x86\Debug\WEB BROWSER.pdb
+C:\Users\Kalka Repairs\Desktop\vb.net classes 3 to 4\login_form\WEB BROWSER\WEB BROWSER\obj\x86\Debug\WEB_BROWSER.Form2.resources
